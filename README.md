@@ -7,7 +7,7 @@ an online shoppinglist application wirtten by React.js
 - Deleting new items
 - Searching items
 
-The sample data file will be synchronized with the above operations on the online application
+The data in data file will be synchronized with the above operations on the online application
 
 ## To run this application 
 
