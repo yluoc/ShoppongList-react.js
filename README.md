@@ -1,4 +1,4 @@
-# Shooping List (React.js)
+# Shopping List (React.js)
 
 an online shoppinglist application wirtten by React.js
 
